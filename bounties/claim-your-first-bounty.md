@@ -1,13 +1,6 @@
----
-description: >-
-  As we navigate through this public beta and thoroughly test the platform,
-  we've introduced a bounty program. This initiative enables open-source
-  contributors to claim rewards and earn points by addin
----
-
 # Claim your first bounty
 
-
+As we navigate through this public beta and thoroughly test the platform, we've introduced a beginner bounty. This initiative enables open-source contributors to claim rewards and earn points by adding their name to a readme file, serving as an introduction to the platform.
 
 1.  Log onto the platform [https://app.gib.work](https://app.gib.work) and select either Automated _(preferred)_ or Manual and sign-in using your Github account.\
 
