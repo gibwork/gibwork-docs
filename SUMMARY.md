@@ -1,10 +1,8 @@
 # Table of contents
 
-## Overview
-
-* [Start here](README.md)
-
-## Bounties
-
-* [Overview](bounties/overview.md)
-* [Claim your first bounty](bounties/claim-your-first-bounty.md)
+* [Introduction](README.md)
+* [How It Works](how-it-works/README.md)
+  * [For Project Owners](how-it-works/for-project-owners.md)
+  * [For Developers](how-it-works/for-developers.md)
+* [Support and Contact](support-and-contact.md)
+* [FAQ](faq.md)
