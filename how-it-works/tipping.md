@@ -4,8 +4,8 @@ Welcome to Gibwork! We value your contributions and want to express our apprecia
 
 ## We Tip you if you are:
 
-1.  [a open source contributor ➡️](./for-open-source.md)
-2.  [someone reporting a bug via Github issues ➡️](./for-reporting-issue.md)
-3.  [someone opening a pull request ➡️](./for-opening-pr.md)
+1.  [a open source contributor ⬅️](./for-open-source.md)
+2.  [someone reporting a bug via Github issues ⬅️](./for-reporting-issue.md)
+3.  [someone opening a pull request ⬅️](./for-opening-pr.md)
 
 ### Thank you for being part of our journey!
