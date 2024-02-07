@@ -12,7 +12,7 @@ As an open source maintainer, you have the opportunity to reward your community 
 
 ## How to Tip using GibWork
 
-Tipping on GibWork is easy and simple. You need to have a GibWork account, submit and verify your project and then add some funds to your project dashboard. The steps to doing this can be found in the [Project Owners Readme] (https://github.com/gibwork/gibwork-docs/blob/50e105ea01e2962b60ff111cd4172d9ee9ef32e6/how-it-works/for-project-owners.md) . As long as you have gotten this done, with the new GibWork tipping feature, you can tip contributors directly from your GibWork project dashboard. 
+Tipping on GibWork is easy and simple. You need to have a GibWork account, submit and verify your project and then add some funds to your project dashboard. The steps to doing this can be found in the [Project Owners Readme](https://github.com/gibwork/gibwork-docs/blob/50e105ea01e2962b60ff111cd4172d9ee9ef32e6/how-it-works/for-project-owners.md) . As long as you have gotten this done, with the new GibWork tipping feature, you can tip contributors directly from your GibWork project dashboard. 
 
 The syntax for tipping using GibWork is as follows:
 
