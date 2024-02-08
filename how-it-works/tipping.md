@@ -1,4 +1,4 @@
-# 💡 Tipping System: Acknowledging and Rewarding Your Contributions 🌟
+# Tipping
 
 Welcome to Gibwork! We value your contributions and want to express our appreciation through our tipping system. Learn how you can be rewarded for your efforts and make a positive impact on our community.
 
