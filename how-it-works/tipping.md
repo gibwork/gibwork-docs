@@ -106,7 +106,7 @@ https://github.com/Dhruv-Varshney-developer/gibwork-docs/assets/85457701/34f3e12
 
 The GibWork Tipping feature represents a significant milestone in fostering appreciation and recognition within the open-source ecosystem. By embracing tipping, maintainers can cultivate a vibrant community built on collaboration, appreciation, and shared success. Start tipping today and celebrate the contributions that drive open-source innovation forward! 🎉
 
-If you have any queries, please reach out to us on our [Discord!](https://discord.com/invite/G54VHkcuHS).
+If you have any queries, please reach out to us on our [Discord](https://discord.com/invite/G54VHkcuHS).
 
 # Other Resources on how the tipping feature works:
 
