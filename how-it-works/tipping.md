@@ -4,7 +4,7 @@
 
 Welcome to GibWork Tipping System!A pretty cool feature that changes how open-source maintainers and contributors appreciate and reward awesome contributions. This guide is for both crypto experts and beginners, giving tips for both open-source maintainers and contributors.
 
-Guide for Open Source Maintainers 🧑‍💻
+### Guide for Open Source Maintainers 🧑‍💻
 Recognizing Exceptional Contributions :
 
 Explore your project's issues to spot remarkable contributions, taking into account the general input by the contributor into the project.
