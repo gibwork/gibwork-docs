@@ -10,7 +10,7 @@ Recognizing Exceptional Contributions :
 Explore your project's issues to spot remarkable contributions, taking into account the general input by the contributor into the project.
 Tipping with GibWork Bot :
 
-Trigger the GibWork bot by using the command @gibworkbot tip <amount> @username. For instance, @gibworkbot tip 1 @Rosegakono allows you to tip the contributor who deserves it.
+Trigger the GibWork bot by using the command **@gibworkbot tip <amount> @username.** For instance, @gibworkbot tip 1 @Rosegakono allows you to tip the contributor who deserves it.
 Bot's Quick Response:
 
 After initiating the tip, the GibWork bot promptly replies with clear instructions and a unique link for the next steps.
