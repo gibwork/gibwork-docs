@@ -1,5 +1,5 @@
 # Tipping
-Tipping is an exciting new feature on GibWork that empowers open-source maintainers to reward the valuable efforts of contributors. As a open source maintainer, you have the opportunity to reward your community outside of bounties and other traditional methods.
+Tipping is an exciting new feature on GibWork that empowers open-source maintainers to reward the valuable efforts of contributors. As a open-source maintainer, you have the opportunity to reward your community outside of bounties and other traditional methods.
 
 ## Why is tipping important?
 
@@ -15,6 +15,7 @@ The ability to tip contributors encourages their continued engagement with the p
 ### Motivation
 Tipping acts as a powerful motivator for open-source contributors, especially those who volunteer their time and skills without expecting financial compensation. It serves as a token of encouragement and appreciation, inspiring contributors to sustain their passion and commitment.
 
+
 ## Tipping Scenarios
 
 1. Tipping Open Source Contributors: Acknowledge the contributions of open-source contributors who enhance the project's development, documentation, or community engagement.
@@ -23,7 +24,7 @@ Tipping acts as a powerful motivator for open-source contributors, especially th
 
 3. Tipping Pull Request Openers: Show appreciation to contributors who submit pull requests with new features, enhancements, or bug fixes, driving the evolution and maintenance of the project.
 
-## How to Tip contributors using ` @gibworkbot `?
+## How to Tip contributors using ` @gibworkbot ` as an open source maintainer?
 
 
 
@@ -51,7 +52,13 @@ For instance, to tip 10 USDC to a contributor with the username @exampleuser:
 
 ` @gibworkbot tip 10 @exampleuser `
 
+Note: Currently the ` @gibworkbot ` supports only USDC token. We are working hard to ensure rewards in other tokens shortly.
+
 ### How It Works?
+
+
+https://github.com/Dhruv-Varshney-developer/gibwork-docs/assets/85457701/36035cf3-7a2e-4253-b4dc-093d2b260c52
+
 
 After initiating the tipping process, the ` @gibworkbot ` will show a message like this:
 
@@ -60,17 +67,16 @@ After initiating the tipping process, the ` @gibworkbot ` will show a message li
 
 
 
-https://github.com/Dhruv-Varshney-developer/gibwork-docs/assets/85457701/36035cf3-7a2e-4253-b4dc-093d2b260c52
-
-
-
 ` @gibworkbot ` will guide you through the following steps:
 
 
-1. Click on the **Gibtips link** to access the tipping interface and add the desired amount to the escrow. The escrow typically utilizes a non-custodial wallet like Solfare, phantom and Backpack for secure transactions.
+1. Click on the ` **Gibtips link** ` to access the tipping interface and add the desired amount to the escrow. The escrow typically utilizes a non-custodial wallet like Solfare, phantom and Backpack for secure transactions.
+
+   
+![Untitled design](https://github.com/Dhruv-Varshney-developer/gibwork-docs/assets/85457701/799f8c21-cf40-4168-88f8-8277c514080d)
+
 
 2. Once the tip is successfully added to the escrow, the recipient can claim it by clicking on the Gibtips link provided.
-
 
 
 
@@ -95,6 +101,7 @@ https://github.com/Dhruv-Varshney-developer/gibwork-docs/assets/85457701/34f3e12
 3. **Connect Your Wallet**: Follow the prompts to connect your wallet securely.
 
    <img width="374" alt="connect wallet" src="https://github.com/Dhruv-Varshney-developer/gibwork-docs/assets/85457701/5051de5e-916a-4185-87b8-ee5472b398a5">
+
 
 4. **Celebrate**: Voilà! Your tip is now safely deposited into your wallet. Celebrate your contribution and the recognition it deserves!
 
