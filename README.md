@@ -9,7 +9,7 @@ description: >-
 
 ## Purpose of GibWork
 
-GibWork serves as a dynamic marketplace where open source project owners, backed by investment, can post development tasks or 'bounties' that require assistance. These bounties are not just tasks; they represent unique opportunities for developers to contribute to meaningful projects while receiving compensation for their skills and effort.
+GibWork serves as a dynamic marketplace where open source project owners, backed by investment, can post development tasks or 'bounties' that require assistance. These bounties are not just tasks; they represent unique opportunities for developers to contribute to meaningful projects while receiving compensation for their skills and effort. It's not a freelance tool, but an opportunity to reward those who truly spent some time adjusting and complementing Github files.
 
 
 
