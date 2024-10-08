@@ -1,35 +1,30 @@
 ---
 description: >-
-  Welcome to the official documentation of GibWork, a revolutionary web3
-  platform designed to bridge the gap between open source project owners and
-  developers worldwide.
+  Gibwork connects skilled professionals with diverse work opportunities,
+  utilizing a trustless escrow system for secure and efficient transactions.
 ---
 
 # Introduction
 
-## Purpose of GibWork
+## What is Gibwork?
 
-GibWork serves as a dynamic marketplace where open source project owners, backed by investment, can post development tasks or 'bounties' that require assistance. These bounties are not just tasks; they represent unique opportunities for developers to contribute to meaningful projects while receiving compensation for their skills and effort.
+Gibwork was created 2023 during the [Solana Hyperdrive hackathon](https://solana.com/news/solana-hyperdrive-hackathon-winners), an online competition focused on bringing the next wave of high-impact projects into the Solana ecosystem. Hyperdrive was the eighth Solana hackathon, bringing together founders and developers from around the world to launch products spanning Infrastructure, Mobile Consumer Apps, Payments, DAOs, AI, and everything in-between.&#x20;
 
+Hyperdrive saw more than 7,000 participants submit 907 final projects to the judges, making it one of the largest online Solana hackathons. Although the Gibwork team did not win any prizes, the judges recognized their work with an honorable mention.
 
+## Gibwork v1.0
 
-## Target Audience
+Shortly after the hackathon, the Gibwork team launched a beta version and successfully connected several opportunities with projects such as the Anchor framework, SolanaCiv, PubKey, Token Gator, and other Solana initiatives.
 
-Our platform is tailored for two primary user groups:
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* **Project Owners:** Visionaries and innovators who have open source projects and need additional development resources. GibWork enables them to post bounties, attracting skilled developers to contribute to their projects.
-* **Developers:** Talented individuals looking for challenging projects to apply their skills, learn new ones, and earn rewards. Whether you are a seasoned developer or a budding programmer, GibWork offers a plethora of opportunities to contribute to diverse projects.
+## Gibwork v2.0
 
-## Features and Workflow
+Recognizing a broader need within the crypto space to facilitate trustless transactions among multiple parties, Gibwork set out to create a solution. Our mission is to connect anyone who requires reliable and secure collaboration, ensuring that individuals and businesses can engage without the need for intermediaries. By harnessing innovative technology, Gibwork aims to empower users with the tools necessary for seamless, transparent interactions in the ever-evolving world of cryptocurrency.
 
-At GibWork, our workflow is straightforward and developer-friendly. Developers can browse through a list of available bounties, select one that aligns with their skills, and start working by initiating a 'fork' of the project. Contributions are made in a dedicated branch prefixed with "gib-", ensuring that all changes are organized and traceable. Upon completion, developers can submit their work through a pull request via our platform. Successful completion and approval of the work lead to the reward claim process, where developers are compensated in USDC, a stable and reliable cryptocurrency.
-
-
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Our Commitment
 
-GibWork is more than just a platform; it's a community committed to the growth and sustainability of open source projects. We are dedicated to providing a transparent, fair, and rewarding environment for all our users. Our platform is constantly evolving, and we value the feedback and contributions from our community to make GibWork the go-to place for open source project collaboration.
+Gibwork is more than just a platform;  We are dedicated to providing a transparent, fair, and rewarding environment for all. Our platform is constantly evolving, and we value the feedback and contributions from our community to make Gibwork the go-to place for freelance.
 
-
-
-Join us in this exciting journey to shape the future of open source development. Explore, contribute, and grow with GibWork.
