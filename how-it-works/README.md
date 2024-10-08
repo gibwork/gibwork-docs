@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How It Works
 
 GibWork simplifies the collaboration between project owners and developers in the open source community. This section outlines the platform's workflow, providing a clear guide on how to effectively use GibWork for both project submissions and development contributions.
