@@ -13,5 +13,13 @@ By holding the $WORK token, users can not only earn a share of the platform's re
 \
 Furthermore, $WORK tokens incentivize active participation, fostering a thriving community where users are rewarded for their contributions to the platform's growth and success.
 
+<table><thead><tr><th width="228">Circulating</th><th># tokens	</th><th data-type="number">%	</th><th>Conditions</th></tr></thead><tbody><tr><td>Circulating Supply</td><td>1,000,000,000</td><td>80</td><td>None</td></tr><tr><td></td><td></td><td>null</td><td></td></tr></tbody></table>
+
+
+
+<table><thead><tr><th width="227">Supply Not Circulating</th><th># tokens	</th><th data-type="number">%</th><th></th></tr></thead><tbody><tr><td>Team (locked)</td><td>90,000,000</td><td>9</td><td></td></tr><tr><td>Treasury (locked)</td><td>16,000,000</td><td>1.6</td><td></td></tr><tr><td></td><td></td><td>null</td><td></td></tr></tbody></table>
+
+
+
 
 
