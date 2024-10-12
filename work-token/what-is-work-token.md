@@ -1,7 +1,3 @@
----
-description: What is Work Token?
----
-
 # What is Work Token?
 
 ## What is the $WORK token?
