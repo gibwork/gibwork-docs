@@ -1,9 +1,3 @@
----
-description: >-
-  Gibwork connects skilled professionals with diverse work opportunities,
-  utilizing a trustless escrow system for secure and efficient transactions.
----
-
 # Introduction
 
 ## What is Gibwork?
@@ -14,7 +8,7 @@ The Gibwork platform serves as a dynamic marketplace where anyone can create new
 
 ## What is the $WORK token?
 
-The $WORK token powers the Gibwork platform, and all $WORK holders are eligible to receive 80% of the platform's revenue share.
+Work is the native token of the Gibwork platform, facilitating key transactions and interactions within the platform environment.&#x20;
 
 You can seamlessly swap any SPL token for $WORK by using the platform at [https://jup.ag/swap/SOL-WORK](https://jup.ag/swap/SOL-WORK).
 
