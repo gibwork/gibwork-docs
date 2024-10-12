@@ -2,8 +2,7 @@
 
 ## Tokenomics&#x20;
 
-CA: F7Hwf8ib5DVCoiuyGr618Y3gon429Rnd1r5F9R5upump\
-DEX: [https://dexscreener.com/solana/F7Hwf8ib5DVCoiuyGr618Y3gon429Rnd1r5F9R5upump](https://dexscreener.com/solana/F7Hwf8ib5DVCoiuyGr618Y3gon429Rnd1r5F9R5upump)&#x20;
+CA: F7Hwf8ib5DVCoiuyGr618Y3gon429Rnd1r5F9R5upump
 
 ### WORK TOKEN - $WORK
 
