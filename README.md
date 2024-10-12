@@ -16,7 +16,7 @@ The Gibwork platform serves as a dynamic marketplace where anyone can create new
 
 ## What is the $WORK token?
 
-The $WORK token powers the Gibwork platform, and all $WORK holders are eligible for an 80% revenue share.
+The $WORK token powers the Gibwork platform, and all $WORK holders are eligible to receive 80% of the platform's revenue share.
 
 You can seamlessly swap any SPL token for $WORK by using the platform at [https://jup.ag/swap/SOL-WORK](https://jup.ag/swap/SOL-WORK).
 
