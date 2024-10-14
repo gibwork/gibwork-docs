@@ -9,7 +9,8 @@
 
 * [What is Work Token?](work-token/what-is-work-token.md)
 * [Tokenomics](work-token/tokenomics/README.md)
-  * [Revenue Share](work-token/tokenomics/revenue-share.md)
+  * [Revenue Share](work-token/tokenomics/revenue-share/README.md)
+    * [Season 0](work-token/tokenomics/revenue-share/season-0.md)
 
 ***
 
@@ -25,3 +26,7 @@
 * [Telegram](https://t.me/gib\_work)
 * [Discord](https://discord.gg/TNXJjpRvqN)
 * [Youtube](https://www.youtube.com/@gibwork\_)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
