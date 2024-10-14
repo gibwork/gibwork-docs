@@ -1,11 +1,9 @@
 # What is Work Token?
 
-**Ranking**&#x20;
-
+**Ranking** \
 [CoinGecko](https://www.coingecko.com/en/coins/work)
 
-**Chart**
-
+**Chart**\
 [DexScreener](https://dexscreener.com/solana/F7Hwf8ib5DVCoiuyGr618Y3gon429Rnd1r5F9R5upump)
 
 \
