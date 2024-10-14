@@ -16,6 +16,10 @@ During Season 0, we will establish the foundation for our revenue-sharing model,
 
 ### Base Reward - 52%
 
+{% hint style="info" %}
+52% of the revenue is distributed to those who stake $WORK.
+{% endhint %}
+
 Each user receives rewards based on the amount of WORK they have staked. These rewards are distributed weekly on Fridays, which we refer to as "Payday."
 
 The amount each user can withdraw on Payday is determined by their Loyalty percentage.
@@ -34,6 +38,10 @@ The amount each user can withdraw on Payday is determined by their Loyalty perce
 * Users can only withdraw their entire staked amount; partial withdrawals are not allowed.
 
 ### Participation Reward - 48%
+
+{% hint style="info" %}
+48% of the revenue is distributed to those who stake & participate on the Gibwork platform.
+{% endhint %}
 
 By staking your tokens and actively participating on Gibwork, you can earn an extra share of the revenue.
 
