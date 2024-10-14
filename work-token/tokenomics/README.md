@@ -8,7 +8,7 @@ Furthermore, $WORK tokens incentivize active participation, fostering a thriving
 
 ## Supply
 
-<table><thead><tr><th width="228">Circulating</th><th># tokens	</th><th data-type="number">%	</th><th>Conditions</th></tr></thead><tbody><tr><td>Circulating Supply</td><td>1,000,000,000</td><td>80</td><td>None</td></tr></tbody></table>
+<table><thead><tr><th width="228">Circulating</th><th># tokens	</th><th data-type="number">%	</th><th>Conditions</th></tr></thead><tbody><tr><td>Circulating Supply</td><td>1,000,000,000</td><td>89.4</td><td>None</td></tr></tbody></table>
 
 
 
