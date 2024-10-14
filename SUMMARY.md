@@ -17,3 +17,11 @@
   * [For Project Owners](how-it-works/for-project-owners.md)
   * [For Developers](how-it-works/for-developers.md)
   * [Tipping](how-it-works/tipping.md)
+
+## LINKS
+
+* [Platform](https://app.gib.work)
+* [Twitter](https://x.com/gib\_work)
+* [Telegram](https://t.me/gib\_work)
+* [Discord](https://discord.gg/TNXJjpRvqN)
+* [Youtube](https://www.youtube.com/@gibwork\_)
