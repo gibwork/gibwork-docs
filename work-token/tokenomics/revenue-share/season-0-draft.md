@@ -4,8 +4,6 @@
 **DRAFT:** This document is still a work in progress and has not yet been finalized.
 {% endhint %}
 
-
-
 Welcome to Season 0, the inaugural phase of our revenue-sharing program! This Season marks a pivotal moment in our journey, setting the stage for a new era of community engagement and reward distribution.
 
 During Season 0, we will establish the foundation for our revenue-sharing model, allowing token holders to experience the benefits of their investment while actively participating in our ecosystem.
@@ -43,7 +41,7 @@ In order for your account to be eligible for Participation rewards, your account
 
 **Definition of a Participant**: A participant is anyone who has either received payment or made a payment on the platform.
 
-**Calculation Timing**: The day before payday, we calculate your participation percentage based on activities from the previous month, allowing users a full 30 days to complete payments.
+**Calculation Timing**: The day before payday, we calculate your participation percentage based on activities from the previous months, allowing users a enough time to complete payments.
 
 * **Distribution of Revenue**:
   * The top 10% of participants will share 50% of the revenue pool.
