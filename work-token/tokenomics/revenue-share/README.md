@@ -6,6 +6,8 @@ Revenue-sharing distributions are organized into distinct "Seasons," each spanni
 
 ### Seasons
 
+Revenue sharing is structured into distinct Seasons, allowing us to systematically assess performance and adjust our approach as needed.
+
 Each Season is carefully monitored and evaluated to ensure fair and transparent allocation of revenue, reinforcing our commitment to community engagement and sustainability.
 
 | Season | Details                        | Dates                   | Revenue Distributed |
