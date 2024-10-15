@@ -28,7 +28,7 @@ The amount each user can withdraw on Payday is determined by their Loyalty perce
 
 * Each user begins with a loyalty percentage of 5%.
 * For every week a user participates—meaning they do not withdraw their stake—their loyalty percentage increases by 15.83%.
-* After 6 weeks of continuous participation, a user’s loyalty percentage will reach 100%.'
+* After 6 weeks of continuous participation, a user’s loyalty percentage will reach 100%.
 * Maintaining a 100% Loyalty percentage is essential, as it allows you to withdraw the full remaining amount at the end of the Season.
 
 **Important Notes**:
