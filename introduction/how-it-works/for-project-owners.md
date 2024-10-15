@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # For Project Owners
 
 As a project owner on GibWork, you have the unique opportunity to propel your open-source projects forward with the help of a vibrant developer community. This section guides you through the process of creating bounties, managing submissions, and ensuring successful project outcomes.

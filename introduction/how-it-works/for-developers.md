@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # For Developers
 
 Welcome to the hub of development opportunities on GibWork! This section is dedicated to helping you navigate the platform, select bounties, and contribute effectively to open-source projects.

@@ -6,9 +6,7 @@
 
 Welcome to Season 0, the inaugural phase of our revenue-sharing program! This Season marks a pivotal moment in our journey, setting the stage for a new era of community engagement and reward distribution.
 
-During Season 0, we will establish the foundation for our revenue-sharing model, allowing token holders to experience the benefits of their investment while actively participating in our ecosystem.
-
-
+During Season 0, **80% of the total revenue will be shared with those who stake and participate**, while the remaining 20% is allocated to overhead costs. This ensures that the majority of rewards goes to those who stake tokens and actively contribute to our ecosystem.
 
 {% hint style="info" %}
 **TL;DR**: To earn the highest rewards, stake your tokens and actively participate on the platform.
@@ -17,7 +15,7 @@ During Season 0, we will establish the foundation for our revenue-sharing model,
 ### Base Reward - 52%
 
 {% hint style="info" %}
-52% of the revenue is distributed to those who stake $WORK.
+52% of the revenue share is distributed to those who stake $WORK.
 {% endhint %}
 
 Each user receives rewards based on the amount of WORK they have staked. These rewards are distributed weekly on Fridays, which we refer to as "Payday."
