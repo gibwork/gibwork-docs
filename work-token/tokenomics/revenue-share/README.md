@@ -4,9 +4,16 @@ Our revenue-sharing model is designed to reward token holders by distributing a 
 
 Revenue-sharing distributions are organized into distinct "Seasons," each spanning a period of 12 weeks. This structured approach allows for consistent and predictable distribution timelines.
 
-### Seasons
+### Revenue Distribution Model
 
-Revenue sharing is structured into distinct Seasons, allowing us to systematically assess performance and adjust our approach as needed.
+This distribution model balances rewarding participants while ensuring that the project has the resources necessary for growth and sustainability.\
+\
+The allocation is divided into two primary components:
+
+* 80% participants who stake.
+* 20% growth and sustainability.&#x20;
+
+### Seasons
 
 Each Season is carefully monitored and evaluated to ensure fair and transparent allocation of revenue, reinforcing our commitment to community engagement and sustainability.
 
