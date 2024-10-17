@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # What is Work Token?
 
 **Ranking** \
