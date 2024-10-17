@@ -13,9 +13,9 @@
 ## WORK TOKEN
 
 * [What is Work Token?](work-token/what-is-work-token.md)
-* [Tokenomics](work-token/tokenomics/README.md)
-  * [Revenue Share](work-token/tokenomics/revenue-share/README.md)
-    * [Season 0 - draft](work-token/tokenomics/revenue-share/season-0-draft.md)
+* [Tokenomics](work-token/tokenomics.md)
+* [Revenue Share](work-token/revenue-share/README.md)
+  * [Season 0 - draft](work-token/revenue-share/season-0-draft.md)
 
 ## LINKS
 
