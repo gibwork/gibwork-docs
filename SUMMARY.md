@@ -5,6 +5,7 @@
 * [What is Gibwork?](README.md)
 * [Contact and Support](introduction/support-and-contact.md)
 * [How It Works](introduction/how-it-works/README.md)
+  * [Decaf Integration](introduction/how-it-works/decaf-integration.md)
   * [For Project Owners](introduction/how-it-works/for-project-owners.md)
   * [For Developers](introduction/how-it-works/for-developers.md)
   * [Tipping](introduction/how-it-works/tipping.md)
