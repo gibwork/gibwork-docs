@@ -24,7 +24,3 @@
 * [Telegram](https://t.me/gib\_work)
 * [Discord](https://discord.gg/TNXJjpRvqN)
 * [Youtube](https://www.youtube.com/@gibwork\_)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
