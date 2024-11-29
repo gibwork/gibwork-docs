@@ -3,6 +3,7 @@
 ## WELCOME <a href="#introduction" id="introduction"></a>
 
 * [What is Gibwork?](README.md)
+* [Referrals](introduction/referrals.md)
 * [Contact and Support](introduction/support-and-contact.md)
 * [How It Works](introduction/how-it-works/README.md)
   * [For Project Owners](introduction/how-it-works/for-project-owners.md)
@@ -23,7 +24,7 @@
 ## LINKS
 
 * [Platform](https://app.gib.work)
-* [Twitter](https://x.com/gib\_work)
-* [Telegram](https://t.me/gib\_work)
+* [Twitter](https://x.com/gib_work)
+* [Telegram](https://t.me/gib_work)
 * [Discord](https://discord.gg/TNXJjpRvqN)
-* [Youtube](https://www.youtube.com/@gibwork\_)
+* [Youtube](https://www.youtube.com/@gibwork_)
