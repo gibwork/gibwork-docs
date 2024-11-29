@@ -11,7 +11,7 @@ You referral link can be found at [https://app.gib.work/referral](https://app.gi
 If you don't have a Gibwork account you can use a wallet address as your referral code. We recommend that you at least have 0.01 SOL in the account. Make sure to replace the wallet address below with yours.&#x20;
 
 ```
-https://app.gib.work?referral=Gj5RVCbYYGAoKBEpRgJX4JHbiMoDfo1RGJKbcufUqg7
+https://app.gib.work?ref=Gj5RVCbYYGAoKBEpRgJX4JHbiMoDfo1RGJKbcufUqg7
 ```
 
 ### Payments
