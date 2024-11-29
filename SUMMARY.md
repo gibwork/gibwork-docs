@@ -1,14 +1,14 @@
 # Table of contents
 
-## WELCOME
+## WELCOME <a href="#info" id="info"></a>
 
 * [What is Gibwork?](README.md)
-* [Referrals](welcome/referrals.md)
-* [Contact and Support](welcome/support-and-contact.md)
-* [How It Works](welcome/how-it-works/README.md)
-  * [For Project Owners](welcome/how-it-works/for-project-owners.md)
-  * [For Developers](welcome/how-it-works/for-developers.md)
-  * [Tipping](welcome/how-it-works/tipping.md)
+* [Referrals](info/referrals.md)
+* [Contact and Support](info/support-and-contact.md)
+* [How It Works](info/how-it-works/README.md)
+  * [For Project Owners](info/how-it-works/for-project-owners.md)
+  * [For Developers](info/how-it-works/for-developers.md)
+  * [Tipping](info/how-it-works/tipping.md)
 
 ## WORK TOKEN
 
