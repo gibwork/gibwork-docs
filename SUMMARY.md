@@ -28,3 +28,7 @@
 * [Telegram](https://t.me/gib_work)
 * [Discord](https://discord.gg/TNXJjpRvqN)
 * [Youtube](https://www.youtube.com/@gibwork_)
+
+## Frequently Asked Questions
+
+* [How to Claim Rewards?](frequently-asked-questions/how-to-claim-rewards.md)
