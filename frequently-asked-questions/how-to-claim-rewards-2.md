@@ -1,4 +1,4 @@
-# How to Start Earning
+# How to Connect Using Mobile
 
 1. **Visit the Dashboard to check your submission status.**
 2. **Click `My Submissions`.**
