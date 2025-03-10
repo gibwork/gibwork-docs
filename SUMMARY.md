@@ -31,9 +31,9 @@
 
 ## Frequently Asked Questions
 
-* [How to Start Earning](frequently-asked-questions/how-to-claim-rewards.md)
-* [How to Claim Rewards](frequently-asked-questions/how-to-claim-rewards-1.md)
-* [How to Connect Using Mobile](frequently-asked-questions/how-to-claim-rewards-2.md)
-* [How to Get Verified](frequently-asked-questions/how-to-claim-rewards-3.md)
-* [How to Create a Task](frequently-asked-questions/how-to-claim-rewards-4.md)
-* [How to Offer a Service](frequently-asked-questions/how-to-claim-rewards-5.md)
+* [How to Start Earning](frequently-asked-questions/how-to-start-earning.md)
+* [How to Claim Rewards](frequently-asked-questions/how-to-claim-rewards.md)
+* [How to Connect Using Mobile](frequently-asked-questions/how-to-connect-using-mobile.md)
+* [How to Get Verified](frequently-asked-questions/how-to-get-verified.md)
+* [How to Create a Task](frequently-asked-questions/how-to-create-a-task.md)
+* [How to Offer a Service](frequently-asked-questions/how-to-offer-a-service.md)
