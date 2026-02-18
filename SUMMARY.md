@@ -6,16 +6,13 @@
 * [Referrals](info/referrals.md)
 * [Frequently Asked Questions](info/frequently-asked-questions/README.md)
   * [How to Start Earning](info/frequently-asked-questions/how-to-start-earning.md)
-  * [How to Claim Rewards](info/frequently-asked-questions/how-to-claim-rewards.md)
-  * [How to Get Verified](info/frequently-asked-questions/how-to-get-verified.md)
-  * [How to Connect Using Mobile](info/frequently-asked-questions/how-to-connect-using-mobile.md)
   * [How to Create a Task](info/frequently-asked-questions/how-to-create-a-task.md)
-  * [How to Offer a Service](info/frequently-asked-questions/how-to-offer-a-service.md)
 * [Contact and Support](info/support-and-contact.md)
 * [How It Works](info/how-it-works/README.md)
   * [For Project Owners](info/how-it-works/for-project-owners.md)
   * [For Developers](info/how-it-works/for-developers.md)
   * [Tipping](info/how-it-works/tipping.md)
+  * [How to Get Verified](info/how-it-works/how-to-get-verified.md)
 
 ## WORK TOKEN
 
