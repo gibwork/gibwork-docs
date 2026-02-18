@@ -12,7 +12,7 @@
   * [For Project Owners](info/how-it-works/for-project-owners.md)
   * [For Developers](info/how-it-works/for-developers.md)
   * [Tipping](info/how-it-works/tipping.md)
-  * [How to Get Verified](info/how-it-works/how-to-get-verified.md)
+  * [How to Get Verified](info/frequently-asked-questions/how-to-get-verified.md)
 
 ## WORK TOKEN
 
