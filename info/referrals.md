@@ -12,6 +12,8 @@ You referral link is [https://app.gib.work?ref=your-gibwork-username](https://ap
 https://app.gib.work?referral=anthony
 ```
 
+{% embed url="https://youtu.be/rmfw6NZznoo" %}
+
 ### Payments
 
 Payments from referrals are paid in $USDC and are sent instantly to the wallet associated to your Gibwork account.&#x20;
