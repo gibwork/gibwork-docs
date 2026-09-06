@@ -2,7 +2,7 @@
 
 ## WELCOME <a href="#info" id="info"></a>
 
-* [What is Gibwork?](README.md)
+* [The Gibwork Manifesto](README.md)
 * [Referrals](info/referrals.md)
 * [Frequently Asked Questions](info/frequently-asked-questions/README.md)
   * [How to Start Earning](info/frequently-asked-questions/how-to-start-earning.md)

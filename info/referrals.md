@@ -4,6 +4,8 @@ The referrals feature empowers users to actively grow the platform's community b
 \
 The feature is designed to encourage participation by offering instant payments in Stablecoins as rewards for successful referrals.
 
+Referrals are considered successful when the invited user either completes a task and receives payment, or creates a task on the platform.
+
 ### Referral Links
 
 You referral link is [https://app.gib.work?ref=your-gibwork-username](https://app.gib.work/?ref=your-gibwork-username)
