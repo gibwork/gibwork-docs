@@ -1,13 +1,11 @@
-# How to Create a Task
+# How to Create a Bounty
 
-1. **Visit** [**app.gib.work**](https://app.gib.work)**.**
-2. **Click `Create`.**
-3. **Select `Create a Task`.**
-4. **Fill out the form and choose options that suit your needs.**
-5. **Make a deposit and publish your task.**
+Ready to fund your first bounty? Follow [Create your first bounty](../getting-started.md#create-your-first-bounty) for the walkthrough, including a sample brief, reward setup, publishing, and reviewing submissions.
 
-## Task options
+## Bounty options
 
-* **Task creation:** Create tasks using any Solana SPL token.
-* **Private tasks:** Create tasks accessible only to people with whom you share the link.
-* **Open-source bounties:** Create a bounty for an issue in a GitHub repository.
+* **Rewards:** Create bounties using Solana SPL tokens.
+* **Private bounties:** Share the bounty link with the people you want to participate.
+* **Open-source bounties:** Fund work on an issue in a GitHub repository.
+
+[Open Gibwork](https://app.gib.work/)

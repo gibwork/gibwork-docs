@@ -34,4 +34,4 @@ Bring a problem worth solving. Bring a skill you want to use. Give someone a cha
 
 Welcome to Gibwork.
 
-[Find bounties](https://app.gib.work/) · [Create a bounty](info/frequently-asked-questions/how-to-create-a-task.md)
+[Find bounties](https://app.gib.work/) · [Create a bounty](info/getting-started.md#create-your-first-bounty)

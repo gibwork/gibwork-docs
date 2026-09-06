@@ -3,10 +3,11 @@
 ## WELCOME <a href="#info" id="info"></a>
 
 * [The Gibwork Manifesto](README.md)
+* [Getting Started](info/getting-started.md)
 * [Referrals](info/referrals.md)
 * [Frequently Asked Questions](info/frequently-asked-questions/README.md)
   * [How to Start Earning](info/frequently-asked-questions/how-to-start-earning.md)
-  * [How to Create a Task](info/frequently-asked-questions/how-to-create-a-task.md)
+  * [How to Create a Bounty](info/frequently-asked-questions/how-to-create-a-task.md)
 * [Contact and Support](info/support-and-contact.md)
 * [How It Works](info/how-it-works/README.md)
   * [For Project Owners](info/how-it-works/for-project-owners.md)
