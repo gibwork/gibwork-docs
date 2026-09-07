@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Frequently Asked Questions
 
 {% content-ref url="how-to-start-earning.md" %}
