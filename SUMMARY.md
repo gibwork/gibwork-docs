@@ -17,6 +17,7 @@
 ## GETTING STARTED
 
 * [Create your first bounty](getting-started/create-your-first-bounty.md)
+* [Participate in a bounty](getting-started/participate-in-a-bounty.md)
 
 ## WORK TOKEN
 
