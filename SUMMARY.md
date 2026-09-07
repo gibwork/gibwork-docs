@@ -32,7 +32,7 @@
 
 ## LINKS
 
-* [Platform](https://app.gib.work)
+* [Platform](https://gib.work)
 * [Twitter](https://x.com/gib_work)
 * [Telegram](https://t.me/gib_work)
 * [Discord](https://discord.gg/TNXJjpRvqN)

@@ -8,4 +8,4 @@ Ready to fund your first bounty? Follow [Create your first bounty](../../getting
 * **Private bounties:** Share the bounty link with the people you want to participate.
 * **Open-source bounties:** Fund work on an issue in a GitHub repository.
 
-[Open Gibwork](https://app.gib.work/)
+[Open Gibwork](https://gib.work/)

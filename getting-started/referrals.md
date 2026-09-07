@@ -8,10 +8,10 @@ Referrals are considered successful when the invited user either completes a tas
 
 ### Referral Links
 
-You referral link is [https://app.gib.work?ref=your-gibwork-username](https://app.gib.work/?ref=your-gibwork-username)
+You referral link is [https://gib.work?ref=your-gibwork-username](https://gib.work/?ref=your-gibwork-username)
 
 ```
-https://app.gib.work?referral=anthony
+https://gib.work?referral=anthony
 ```
 
 {% embed url="https://youtu.be/rmfw6NZznoo" %}

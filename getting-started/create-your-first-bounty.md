@@ -6,7 +6,7 @@ For your first bounty, choose one small, specific outcome: fix a bug, improve a 
 
 ## 1. Sign in to Gibwork
 
-Open [Gibwork](https://app.gib.work/) and create an account or sign in. Open the creation flow to start a new bounty.
+Open [Gibwork](https://gib.work/) and create an account or sign in. Open the creation flow to start a new bounty.
 
 ## 2. Describe the work
 
@@ -63,6 +63,6 @@ Share the bounty link with relevant contributors or your community. Answer quest
 
 Review submissions against the acceptance criteria you published. Give specific feedback when work needs changes. When a submission meets the requirements, approve it and follow the in-app instructions to complete the reward process. Check the submission and payment status before considering the bounty complete.
 
-[Create your first bounty](https://app.gib.work/)
+[Create your first bounty](https://gib.work/)
 
 Looking to contribute instead? Read [How to Start Earning](frequently-asked-questions/how-to-start-earning.md).
