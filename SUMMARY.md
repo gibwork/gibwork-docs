@@ -3,7 +3,6 @@
 ## WELCOME <a href="#info" id="info"></a>
 
 * [The Gibwork Manifesto](README.md)
-* [Getting Started](info/getting-started.md)
 * [Referrals](info/referrals.md)
 * [Frequently Asked Questions](info/frequently-asked-questions/README.md)
   * [How to Start Earning](info/frequently-asked-questions/how-to-start-earning.md)
@@ -14,6 +13,10 @@
   * [For Developers](info/how-it-works/for-developers.md)
   * [Tipping](info/how-it-works/tipping.md)
   * [How to Get Verified](info/frequently-asked-questions/how-to-get-verified.md)
+
+## GETTING STARTED
+
+* [CREATE YOUR FIRST BOUNTY](getting-started/create-your-first-bounty.md)
 
 ## WORK TOKEN
 

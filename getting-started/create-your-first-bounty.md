@@ -1,16 +1,14 @@
-# Getting Started
-
-## Create your first bounty
+# CREATE YOUR FIRST BOUNTY
 
 Turn work you need done into a funded opportunity. A bounty tells contributors what to deliver, how you will review it, and what they can earn.
 
 For your first bounty, choose one small, specific outcome: fix a bug, improve a README, or create a graphic.
 
-### 1. Sign in to Gibwork
+## 1. Sign in to Gibwork
 
 Open [Gibwork](https://app.gib.work/) and create an account or sign in. Open the creation flow to start a new bounty.
 
-### 2. Describe the work
+## 2. Describe the work
 
 Give your bounty a title that names the result you want. In the description, explain the problem and provide the context someone needs to begin.
 
@@ -24,19 +22,19 @@ Include:
 
 Choose resources contributors can access. For a GitHub bounty, link directly to the issue and explain how to test or review the change.
 
-### 3. Set the reward and options
+## 3. Set the reward and options
 
 Choose the reward amount and token from the options available in the creation form. Consider the scope, skill, and time the work requires.
 
 Review the available settings before continuing. If you choose a private bounty, share its link with the people you want to participate.
 
-### 4. Review, fund, and publish
+## 4. Review, fund, and publish
 
 Read the bounty as if you were seeing the project for the first time. Check that the requirements are understandable, the resource links work, and the reward is correct.
 
 Follow the funding instructions in Gibwork, complete the required deposit, and publish your bounty. Check that the published bounty shows the details you intended.
 
-### Example: A first bounty
+## Example: A first bounty
 
 Use this illustrative brief as a starting point. Replace the scope, links, deadline, and reward with your own.
 
@@ -59,7 +57,7 @@ Use this illustrative brief as a starting point. Replace the scope, links, deadl
 
 **Deadline:** Add a specific date, time, and time zone before publishing.
 
-### After you publish
+## After you publish
 
 Share the bounty link with relevant contributors or your community. Answer questions and clarify the requirements when needed.
 
@@ -67,4 +65,4 @@ Review submissions against the acceptance criteria you published. Give specific 
 
 [Create your first bounty](https://app.gib.work/)
 
-Looking to contribute instead? Read [How to Start Earning](frequently-asked-questions/how-to-start-earning.md).
+Looking to contribute instead? Read [How to Start Earning](../info/frequently-asked-questions/how-to-start-earning.md).

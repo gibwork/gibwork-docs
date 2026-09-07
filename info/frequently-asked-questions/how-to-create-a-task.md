@@ -1,6 +1,6 @@
 # How to Create a Bounty
 
-Ready to fund your first bounty? Follow [Create your first bounty](../getting-started.md#create-your-first-bounty) for the walkthrough, including a sample brief, reward setup, publishing, and reviewing submissions.
+Ready to fund your first bounty? Follow [Create your first bounty](../../getting-started/create-your-first-bounty.md) for the walkthrough, including a sample brief, reward setup, publishing, and reviewing submissions.
 
 ## Bounty options
 
