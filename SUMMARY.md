@@ -3,10 +3,6 @@
 ## WELCOME <a href="#info" id="info"></a>
 
 * [The Gibwork Manifesto](README.md)
-* [Referrals](info/referrals.md)
-* [Frequently Asked Questions](info/frequently-asked-questions/README.md)
-  * [How to Start Earning](info/frequently-asked-questions/how-to-start-earning.md)
-  * [How to Create a Bounty](info/frequently-asked-questions/how-to-create-a-task.md)
 * [Contact and Support](info/support-and-contact.md)
 * [How It Works](info/how-it-works/README.md)
   * [For Project Owners](info/how-it-works/for-project-owners.md)
@@ -16,8 +12,12 @@
 
 ## GETTING STARTED
 
-* [Create your first bounty](getting-started/create-your-first-bounty.md)
-* [Participate in a bounty](getting-started/participate-in-a-bounty.md)
+* [🤝 Create your first bounty](getting-started/create-your-first-bounty.md)
+* [🙌 Participate in a bounty](getting-started/participate-in-a-bounty.md)
+* [🫂 Earn Passively](getting-started/referrals.md)
+* [Frequently Asked Questions](getting-started/frequently-asked-questions/README.md)
+  * [How to Start Earning](getting-started/frequently-asked-questions/how-to-start-earning.md)
+  * [How to Create a Bounty](getting-started/frequently-asked-questions/how-to-create-a-task.md)
 
 ## WORK TOKEN
 

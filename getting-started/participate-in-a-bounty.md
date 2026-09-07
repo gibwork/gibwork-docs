@@ -1,4 +1,4 @@
-# Participate in a bounty
+# 🙌 Participate in a bounty
 
 **Start by downloading the Gibwork mobile app.** Find bounties, submit your work, and follow your submission status from your phone.
 

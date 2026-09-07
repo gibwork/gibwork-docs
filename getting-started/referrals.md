@@ -1,4 +1,4 @@
-# Referrals
+# 🫂 Earn Passively
 
 The referrals feature empowers users to actively grow the platform's community by inviting others to join through the use of personalized referral links.\
 \
@@ -18,17 +18,8 @@ https://app.gib.work?referral=anthony
 
 ### Payments
 
-Payments from referrals are paid in $USDC and are sent instantly to the wallet associated to your Gibwork account.&#x20;
+Payments from referrals are paid in $USDC and are sent instantly to the wallet associated to your Gibwork account.
 
 ### Payment Calculation
 
 Every referral is eligible to earn a 50% of the platform fee.
-
-
-
-
-
-
-
-
-

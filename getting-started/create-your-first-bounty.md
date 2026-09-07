@@ -1,4 +1,4 @@
-# CREATE YOUR FIRST BOUNTY
+# 🤝 Create your first bounty
 
 Turn work you need done into a funded opportunity. A bounty tells contributors what to deliver, how you will review it, and what they can earn.
 
@@ -65,4 +65,4 @@ Review submissions against the acceptance criteria you published. Give specific 
 
 [Create your first bounty](https://app.gib.work/)
 
-Looking to contribute instead? Read [How to Start Earning](../info/frequently-asked-questions/how-to-start-earning.md).
+Looking to contribute instead? Read [How to Start Earning](frequently-asked-questions/how-to-start-earning.md).
